@@ -11,11 +11,11 @@ Anime Picture
 > pkg install ffmpeg
 > pkg install nodejs
 > git clone https://github.com/syahdanprojectID/youtubedl
-> cd yotube-dl
+> cd yotubedl
 > npm install
 ```
 
 ### Run
 ```bash
-> node index.js
+> node syahdan.js
 ```
