@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://thetutorialtermux.files.wordpress.com/2022/09/screenshot_20221026-083656_2.jpg" width="300" height="200"/>
 <br>
-Anime Picture
+Syahdan Project
 </p>
 
 ## Install:
